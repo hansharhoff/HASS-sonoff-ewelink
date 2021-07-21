@@ -1,0 +1,10 @@
+{
+  "domain": "sonoff",
+  "name": "HASS-sonoff-ewelink",
+  "documentation": "https://github.com/devbis/HASS-sonoff-ewelink",
+  "dependencies": [],
+  "codeowners": ["peterbuga", "devbis", "hansharhoff"],
+  "requirements": ["websocket-client==0.54.0"],
+  "iot_class": "cloud_polling",
+  "version" : "0.1.0"
+}
